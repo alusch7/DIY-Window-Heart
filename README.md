@@ -1,7 +1,7 @@
 # DIY-Window-Heart
 
 ## Goal
-Inspired by the glowing hearts that you may see in the window sill as you stroll through the city, I decided to take my own shot at designing a fully customizable window sill heart.
+Inspired by the glowing hearts that you may see in the windowsill as you stroll through the city, I decided to take my own shot at designing a fully customizable window heart.
 
 ## Materials & Equipment
 - Arduino Micro
